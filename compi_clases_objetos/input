@@ -1,0 +1,37 @@
+public class Nombre {
+    int x = 6
+    float y = agg
+
+  public int funcion(int x,float y){
+		aea = 56
+    int xd = 6
+    pe = 45
+		int agg = 9
+	}
+
+}
+
+public class Otra hereda Nombre{
+    int x = 6
+    float y = agg
+  public int funcion(int x,int a){
+		aea = 56
+    int xd = 6
+    pe = 45
+		int agg = 9
+	}
+
+}
+
+public class Principal{
+public void main(){
+    aea = 56
+    int xd = 6
+    pe = 45
+    float agg = 45
+    int pe = 85
+    int Var = nuevo Otra()
+    float cons = nuevo Clase(4,5,6)
+    Var.Metodo(x,4,6,p)
+}
+}
